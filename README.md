@@ -3,6 +3,7 @@ dwm is an extremely fast, small and dynamic window manager for X.
 
 ## Patches
 * [Vanitygaps](https://dwm.suckless.org/patches/vanitygaps/)
+* [Swallow](https://dwm.suckless.org/patches/swallow/)
 
 Some patches are rewritten or modified to work together.
 
